@@ -3,21 +3,20 @@
 
 ### ファイルとフォルダの説明
 
-- **least_square**
+- least_square.ipynb
   - 研究における従来手法に該当するファイル
 
-- **deeplearning_least_square**：
+- deeplearning_least_square.ipynb
   - 従来手法に機械学習の一つであるニューラルネットワークを応用した手法に該当するファイル
 
-- **deeplearning_least_square_ieee_dataset**
+- deeplearning_least_square_ieee_dataset.ipynb
   - 上の手法をIEEEの研究者が作成した公開データセット用いて評価したファイル
 
-- **dataset**
+- dataset
   - 測位に使用するセンシングデータをまとめたフォルダ
 
-- **figure**
+- figure
   - 作成したグラフを整理したフォルダ
 
 
-簡素な説明で申し訳ありません。
-順次読みやすく整理する予定です。
+簡素な説明で申し訳ありません、順次読みやすく整理する予定です
